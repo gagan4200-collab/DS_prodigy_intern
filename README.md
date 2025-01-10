@@ -1,4 +1,8 @@
-# Internship ReadMe: Prodigy Infotech Data Science Tasks
+# Internship---------   
+**NAME**: Gagan Mandal<br>
+**COMPANY**: Prodigy Infotech<br>
+**DOMAIN**: Data Science<br>
+**BATCH DURATION**: January 1, 2025 to January 31, 2025<br>
 
 ## Overview:-
   This repository contains the tasks completed during my internship at Prodigy Infotech. Each task demonstrates a different aspect of data science, including data visualization, data cleaning, exploratory data analysis, machine learning, and sentiment analysis. The tasks use various datasets to showcase different techniques and methods commonly used in data science projects.
